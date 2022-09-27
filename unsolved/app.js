@@ -12,6 +12,25 @@ console.log('Your JS file is linked!');
 
 //Write your code for FizzBuzz below this line:
 
+let myNumber = 15;
+
+if (){
+    console.log('This is not a number')
+} 
+else if (myNumber * 3){
+    console.log('Fizz')
+}
+else if (myNumber * 5){
+    console.log('Buzz')
+}
+else if(myNumber * 3/5){
+    console.log('FizzBuzz')
+}
+else if(){
+    console.log()
+}
+
+
 
 
 
